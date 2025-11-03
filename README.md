@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
