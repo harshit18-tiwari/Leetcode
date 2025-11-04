@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 <!---LeetCode Topics End-->
