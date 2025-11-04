@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshit18-tiwari/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
