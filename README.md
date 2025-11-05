@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
