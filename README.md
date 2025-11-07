@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [2442-number-of-arithmetic-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
