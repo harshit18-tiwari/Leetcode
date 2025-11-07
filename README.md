@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Indexed Tree
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit18-tiwari/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
