@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit18-tiwari/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/harshit18-tiwari/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/harshit18-tiwari/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshit18-tiwari/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
