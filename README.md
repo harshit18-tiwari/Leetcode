@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
