@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/harshit18-tiwari/Leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1395-minimum-time-visiting-all-points](https://github.com/harshit18-tiwari/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
