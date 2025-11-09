@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshit18-tiwari/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
 | [0119-pascals-triangle-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/harshit18-tiwari/Leetcode/tree/master/0198-house-robber) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshit18-tiwari/Leetcode/tree/master/0062-unique-paths) |
 | [0492-construct-the-rectangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshit18-tiwari/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
