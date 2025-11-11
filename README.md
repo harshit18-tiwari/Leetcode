@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0830-largest-triangle-area](https://github.com/harshit18-tiwari/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0932-monotonic-array) |
+| [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [1287-distance-between-bus-stops](https://github.com/harshit18-tiwari/Leetcode/tree/master/1287-distance-between-bus-stops) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/harshit18-tiwari/Leetcode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0830-largest-triangle-area](https://github.com/harshit18-tiwari/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1395-minimum-time-visiting-all-points](https://github.com/harshit18-tiwari/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/harshit18-tiwari/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
@@ -176,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshit18-tiwari/Leetcode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
