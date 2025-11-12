@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/harshit18-tiwari/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/harshit18-tiwari/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
