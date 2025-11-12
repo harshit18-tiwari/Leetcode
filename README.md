@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
+| [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshit18-tiwari/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
