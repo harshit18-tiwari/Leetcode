@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshit18-tiwari/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/harshit18-tiwari/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/harshit18-tiwari/Leetcode/tree/master/0072-edit-distance) |
 | [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshit18-tiwari/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/harshit18-tiwari/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
