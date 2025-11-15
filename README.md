@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit18-tiwari/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit18-tiwari/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshit18-tiwari/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshit18-tiwari/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sliding Window
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit18-tiwari/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshit18-tiwari/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
