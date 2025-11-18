@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/harshit18-tiwari/Leetcode/tree/master/0575-distribute-candies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/harshit18-tiwari/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/harshit18-tiwari/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
