@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/harshit18-tiwari/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/harshit18-tiwari/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0932-monotonic-array) |
+| [0983-validate-stack-sequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
@@ -92,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/harshit18-tiwari/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/harshit18-tiwari/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/harshit18-tiwari/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshit18-tiwari/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
