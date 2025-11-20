@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshit18-tiwari/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/harshit18-tiwari/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
 ## Geometry
 |  |
 | ------- |
@@ -216,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/harshit18-tiwari/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
