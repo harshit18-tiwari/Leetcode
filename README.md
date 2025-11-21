@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/harshit18-tiwari/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0932-monotonic-array) |
 | [0983-validate-stack-sequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/harshit18-tiwari/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshit18-tiwari/Leetcode/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/harshit18-tiwari/Leetcode/tree/master/0575-distribute-candies) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
