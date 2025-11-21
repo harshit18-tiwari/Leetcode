@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/harshit18-tiwari/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshit18-tiwari/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshit18-tiwari/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/harshit18-tiwari/Leetcode/tree/master/0441-arranging-coins) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/harshit18-tiwari/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshit18-tiwari/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
