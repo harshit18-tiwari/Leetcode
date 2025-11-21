@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/harshit18-tiwari/Leetcode/tree/master/0575-distribute-candies) |
 | [1129-longest-string-chain](https://github.com/harshit18-tiwari/Leetcode/tree/master/1129-longest-string-chain) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshit18-tiwari/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2122-count-special-quadruplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/harshit18-tiwari/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/harshit18-tiwari/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/harshit18-tiwari/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshit18-tiwari/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshit18-tiwari/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/harshit18-tiwari/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Dynamic Programming
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshit18-tiwari/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/harshit18-tiwari/Leetcode/tree/master/0130-surrounded-regions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/harshit18-tiwari/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
